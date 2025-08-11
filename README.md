@@ -69,6 +69,14 @@ flutter run
 
 ---
 
+### 📦 Download Debug APK
+
+You can download the debug APK from the following link:
+
+[Download Debug APK](https://drive.google.com/file/d/16QJrjVvHf6tkupSOMuaMncqX9jfh_gPh/view?usp=sharing)
+
+---
+
 ## 👥 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
